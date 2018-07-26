@@ -1,0 +1,16 @@
+h1 {
+  font-size: 40px;
+  color: purple;
+  font-family: Georgia, serif;
+    max-width: 1100px
+    text-align: center;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  max-width: 1000px
+  text-align: center;
+}
+form {
+    font-family: Georgia, serif;
+}
